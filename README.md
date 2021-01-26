@@ -45,6 +45,6 @@
 
 🙄 `git clone https://github.com/lovehacker404/BlackMafiaTool`
 
-🙄 `cd World`
+🙄 `cd BlackMafiaTool`
 
 🙄 `python2 lovehacker.py`
